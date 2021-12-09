@@ -8,7 +8,7 @@ Python
 - 💞️ I’m looking to collaborate on ...
 * Everything
 - 📫 How to reach me ...
-* GitHub? Idk
+* Twitter @p4wnsolo
 
 <!---
 p4wnsolo/p4wnsolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
