@@ -1,6 +1,6 @@
-- ♟️ @p4wnsolo 
+## ♟️ @p4wnsolo 
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in ...
 
 `Raspberry Pi`
 
@@ -8,15 +8,15 @@
 
 `Pentesting`
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 `Python`
 
-- 💞️ I’m looking to collaborate on ...
+## 💞️ I’m looking to collaborate on ...
 
 `Everything`
 
-- 📫 How to reach me ...
+## 📫 How to reach me ...
 * Twitter @p4wnsolo
 
 <!---
