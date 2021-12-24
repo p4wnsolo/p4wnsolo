@@ -1,6 +1,6 @@
 ## ♟️ @p4wnsolo 
 
-## 👀 I’m interested in ...
+## 👀 I dig
 
 `Raspberry Pi`
 
@@ -8,13 +8,15 @@
 
 `Pentesting`
 
-## 🌱 I’m currently learning ...
+`Long walks on beach`
+
+## 🌱 I’m learning
 
 `Python`
 
-## 💞️ I’m looking to collaborate on ...
+## 💞️ Let's collaborate on
 
-`Everything`
+`F#©|{ing Everything`
 
 ## 📫 How to reach me ...
 [Twitter @p4wnsolo](https://twitter.com/p4wnsolo)
