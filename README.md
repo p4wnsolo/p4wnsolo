@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @p4wnsolo
+- ♟️ @p4wnsolo 
+
 - 👀 I’m interested in ...
-* Raspberry Pi
-* OLED
-* Pentesting
+
+`Raspberry Pi`
+
+`OLED`
+
+`Pentesting`
+
 - 🌱 I’m currently learning ...
-Python
+
+`Python`
+
 - 💞️ I’m looking to collaborate on ...
-* Everything
+
+`Everything`
+
 - 📫 How to reach me ...
 * Twitter @p4wnsolo
 
