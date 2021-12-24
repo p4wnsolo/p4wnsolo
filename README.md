@@ -17,7 +17,7 @@
 `Everything`
 
 ## 📫 How to reach me ...
-* Twitter @p4wnsolo
+[Twitter @p4wnsolo](https://twitter.com/p4wnsolo)
 
 <!---
 p4wnsolo/p4wnsolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
