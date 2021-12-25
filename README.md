@@ -1,6 +1,6 @@
 ## ♟️ @p4wnsolo 
 
-## 👀 I dig
+### 👀 I dig
 
 `Raspberry Pi`
 
@@ -10,15 +10,15 @@
 
 `Long walks on beach`
 
-## 🌱 I’m learning
+### 🌱 I’m learning
 
 `Python`
 
-## 💞️ Let's collaborate on
+### 💞️ Let's collaborate on
 
 `F#©|{ing Everything`
 
-## 📫 How to reach me ...
+### 📫 How to reach me ...
 [Twitter @p4wnsolo](https://twitter.com/p4wnsolo)
 
 <!---
